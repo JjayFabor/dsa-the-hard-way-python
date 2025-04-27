@@ -1,10 +1,19 @@
-# Compare Two Strings
+"""
 
-# Problem : Write a function that checks if two strings are equal without using ==.
+Compare Two Strings
 
-# Solution:
-    # Count the len of each string
-    # compare and check the index of each to see if they are equal
+Problem: Write a function that checks if two strings are equal without using ==.
+    Example:
+        Input: 'hello', 'hello'
+        Output: True
+        Input: 'Hello', 'hello'
+        Output: False
+
+Solution:
+    Count the len of each string
+    Compare and check the index of each to see if they are equal
+
+"""
 
 def compare_strings(s1, s2):
     s1_len = 0
