@@ -27,7 +27,7 @@ This repo follows that mindset — start with the basics, master them, then appl
 | Category | Status |
 |----------|--------|
 | ✅ Strings | In Progress |
-| ✅ Arrays (Lists) | Coming Soon |
+| ✅ Arrays (Lists) | In Progress |
 | ⏳ Linked Lists | Coming Soon |
 | ⏳ Stacks & Queues | Coming Soon |
 | ⏳ Recursion | Coming Soon |
